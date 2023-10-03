@@ -1,10 +1,17 @@
-import React from 'react'
+import React ,{useState}from 'react';
 import searchIcon from '../img/Vector-removebg-preview.png';
-const Search_bar = () => {
+const Search_bar = ({ onSearch }) => {
+    const [searchTerm, setSearchTerm] = useState('');
+  
+    const handleSearch = (e) => {
+      setSearchTerm(e.target.value);
+      onSearch(e.target.value);
+    };
+   
     return (
         <div className='search_container'>
             <div className="search-bar">
-                <input class="search" type="search" placeholder="Search" value="" />
+                <input class="search" type="search" placeholder="Search"  value={searchTerm}  onChange={handleSearch} />
                 <img src={searchIcon} alt='' />
             </div>
             <div className="select-container">
