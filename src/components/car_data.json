@@ -1,0 +1,978 @@
+
+[
+    {
+      "id": 1,
+      "carName": "Toyota Corolla",
+      "rentPrice": 50,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://www.carandbike.com/_next/image?url=https%3A%2F%2Fc.ndtvimg.com%2F2022-01%2F0d2m0qkg_car_625x300_12_January_22.jpg&w=750&q=75"
+    },
+    {
+      "id": 2,
+      "carName": "Honda Civic",
+      "rentPrice": 48,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,   "image": "https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?cs=srgb&dl=pexels-mike-bird-3729464.jpg&fm=jpg"
+    },
+    {
+      "id": 3,
+      "carName": "Ford Mustang",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 4,
+      "mileage": "25 mpg",
+      "automatic": true,   "image": "https://imgd.aeplcdn.com/1200x900/n/cw/ec/127537/tata-right-front-three-quarter1.jpeg?isig=0"
+    },
+    {
+      "id": 4,
+      "carName": "Nissan Altima",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,   "image": "https://images.unsplash.com/photo-1616455579100-2ceaa4eb2d37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym13JTIwY2FyfGVufDB8fDB8fHww&w=1000&q=80"
+    },
+    {
+      "id": 5,
+      "carName": "Tesla Model 3",
+      "rentPrice": 100,
+      "type": "electric",
+      "seats": 5,
+      "mileage": "250 miles/charge",
+      "automatic": true,   "image": "https://cars.tatamotors.com/images/punch/punch-suv-home-mob.png"
+    },
+    {
+      "id": 6,
+      "carName": "BMW 3 Series",
+      "rentPrice": 80,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,   "image": "https://images.news18.com/ibnlive/uploads/2022/09/tata-punch-camo-edition-16726408813x2.jpg?impolicy=website&width=360&height=240"
+    },
+    {
+      "id": 7,
+      "carName": "Hyundai Sonata",
+      "rentPrice": 47,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 8,
+      "carName": "Chevrolet Camaro",
+      "rentPrice": 72,
+      "type": "gasoline",
+      "seats": 4,
+      "mileage": "27 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 9,
+      "carName": "Volkswagen Jetta",
+      "rentPrice": 49,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 10,
+      "carName": "Jeep Wrangler",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 4,
+      "mileage": "20 mpg",
+      "automatic": false,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 11,
+      "carName": "Tesla Model S",
+      "rentPrice": 120,
+      "type": "electric",
+      "seats": 5,
+      "mileage": "300 miles/charge",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 12,
+      "carName": "Mercedes-Benz C-Class",
+      "rentPrice": 90,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 13,
+      "carName": "Ford Explorer",
+      "rentPrice": 65,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "24 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 14,
+      "carName": "Honda Accord",
+      "rentPrice": 55,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 15,
+      "carName": "Lexus RX",
+      "rentPrice": 95,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 16,
+      "carName": "Audi A4",
+      "rentPrice": 88,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "27 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 17,
+      "carName": "Kia Sportage",
+      "rentPrice": 60,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 18,
+      "carName": "Subaru Outback",
+      "rentPrice": 70,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 19,
+      "carName": "Mazda CX-5",
+      "rentPrice": 63,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "27 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 20,
+      "carName": "Jeep Grand Cherokee",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "25 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 21,
+      "carName": "Chevrolet Equinox",
+      "rentPrice": 58,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 22,
+      "carName": "Nissan Rogue",
+      "rentPrice": 62,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 23,
+      "carName": "Ford F-150",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "21 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 24,
+      "carName": "Volkswagen Golf",
+      "rentPrice": 45,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 25,
+      "carName": "Chrysler Pacifica",
+      "rentPrice": 70,
+      "type": "hybrid",
+      "seats": 7,
+      "mileage": "30 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 26,
+      "carName": "Volvo XC90",
+      "rentPrice": 90,
+      "type": "hybrid",
+      "seats": 7,
+      "mileage": "27 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 27,
+      "carName": "Cadillac Escalade",
+      "rentPrice": 110,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "20 mpg",
+      "automatic": true,   "image": "../img/car1.jpeg"
+    },
+    {
+      "id": 28,
+      "carName": "Mercedes-Benz GLC",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,
+      "image": "https://example.com/mercedes-benz-glc.jpg"
+    },
+    {
+      "id": 29,
+      "carName": "Lexus ES",
+      "rentPrice": 80,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "44 mpg",
+      "automatic": true,
+      "image": "https://example.com/lexus-es.jpg"
+    },
+    {
+      "id": 30,
+      "carName": "Audi Q5",
+      "rentPrice": 78,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "27 mpg",
+      "automatic": true,
+      "image": "https://example.com/audi-q5.jpg"
+    },
+    {
+      "id": 31,
+      "carName": "Toyota RAV4",
+      "rentPrice": 60,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "40 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-rav4.jpg"
+    },
+    {
+      "id": 32,
+      "carName": "Nissan Sentra",
+      "rentPrice": 46,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-sentra.jpg"
+    },
+    {
+      "id": 33,
+      "carName": "Subaru Forester",
+      "rentPrice": 65,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/subaru-forester.jpg"
+    },
+    {
+      "id": 34,
+      "carName": "Mazda3",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "31 mpg",
+      "automatic": true,
+      "image": "https://example.com/mazda3.jpg"
+    },
+    {
+      "id": 35,
+      "carName": "Kia Soul",
+      "rentPrice": 49,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/kia-soul.jpg"
+    },
+    {
+      "id": 36,
+      "carName": "Chevrolet Tahoe",
+      "rentPrice": 95,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "21 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-tahoe.jpg"
+    },
+    {
+      "id": 37,
+      "carName": "Ford Focus",
+      "rentPrice": 48,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/ford-focus.jpg"
+    },
+    {
+      "id": 38,
+      "carName": "Jeep Compass",
+      "rentPrice": 55,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/jeep-compass.jpg"
+    },
+    {
+      "id": 39,
+      "carName": "Hyundai Elantra",
+      "rentPrice": 47,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-elantra.jpg"
+    },
+    {
+      "id": 40,
+      "carName": "GMC Sierra",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "20 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-sierra.jpg"
+    },
+    {
+      "id": 41,
+      "carName": "Volkswagen Passat",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-passat.jpg"
+    },
+    {
+      "id": 42,
+      "carName": "Acura MDX",
+      "rentPrice": 88,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "27 mpg",
+      "automatic": true,
+      "image": "https://example.com/acura-mdx.jpg"
+    },
+    {
+      "id": 43,
+      "carName": "Toyota Highlander",
+      "rentPrice": 75,
+      "type": "hybrid",
+      "seats": 7,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-highlander.jpg"
+    },
+    {
+      "id": 44,
+      "carName": "Mercedes-Benz E-Class",
+      "rentPrice": 95,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,
+      "image": "https://example.com/mercedes-benz-e-class.jpg"
+    },
+    {
+      "id": 45,
+      "carName": "Honda CR-V",
+      "rentPrice": 62,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,
+      "image": "https://example.com/honda-cr-v.jpg"
+    },
+    {
+      "id": 46,
+      "carName": "Lexus GX",
+      "rentPrice": 92,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "18 mpg",
+      "automatic": true,
+      "image": "https://example.com/lexus-gx.jpg"
+    },
+    {
+      "id": 47,
+      "carName": "Subaru Crosstrek",
+      "rentPrice": 54,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "33 mpg",
+      "automatic": true,
+      "image": "https://example.com/subaru-crosstrek.jpg"
+    },
+    {
+      "id": 48,
+      "carName": "Nissan Maxima",
+      "rentPrice": 68,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-maxima.jpg"
+    },
+    {
+      "id": 49,
+      "carName": "Toyota Camry",
+      "rentPrice": 55,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "51 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-camry.jpg"
+    },
+    {
+      "id": 50,
+      "carName": "Ford Escape",
+      "rentPrice": 58,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/ford-escape.jpg"
+    },
+    {
+      "id": 51,
+      "carName": "Chevrolet Silverado",
+      "rentPrice": 90,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "20 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-silverado.jpg"
+    },
+    {
+      "id": 52,
+      "carName": "Jeep Renegade",
+      "rentPrice": 50,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/jeep-renegade.jpg"
+    },
+    {
+      "id": 53,
+      "carName": "Hyundai Tucson",
+      "rentPrice": 54,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-tucson.jpg"
+    },
+    {
+      "id": 54,
+      "carName": "GMC Acadia",
+      "rentPrice": 68,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "22 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-acadia.jpg"
+    },
+    {
+      "id": 55,
+      "carName": "Volkswagen Tiguan",
+      "rentPrice": 62,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-tiguan.jpg"
+    },
+    {
+      "id": 56,
+      "carName": "Audi A3",
+      "rentPrice": 70,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/audi-a3.jpg"
+    },
+    {
+      "id": 57,
+      "carName": "Toyota Tacoma",
+      "rentPrice": 65,
+      "type": "gasoline",
+      "seats": 4,
+      "mileage": "21 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-tacoma.jpg"
+    },
+    {
+      "id": 58,
+      "carName": "Nissan Pathfinder",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "24 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-pathfinder.jpg"
+    },
+    {
+      "id": 59,
+      "carName": "Chevrolet Malibu",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-malibu.jpg"
+    },
+    {
+      "id": 60,
+      "carName": "Kia Sorento",
+      "rentPrice": 58,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "26 mpg",
+      "automatic": true,
+      "image": "https://example.com/kia-sorento.jpg"
+    },
+    {
+      "id": 61,
+      "carName": "Mazda CX-9",
+      "rentPrice": 70,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "24 mpg",
+      "automatic": true,
+      "image": "https://example.com/mazda-cx-9.jpg"
+    },
+    {
+      "id": 62,
+      "carName": "Jeep Cherokee",
+      "rentPrice": 62,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/jeep-cherokee.jpg"
+    },
+    {
+      "id": 63,
+      "carName": "Ford Edge",
+      "rentPrice": 65,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,
+      "image": "https://example.com/ford-edge.jpg"
+    },
+    {
+      "id": 64,
+      "carName": "Hyundai Santa Fe",
+      "rentPrice": 58,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-santa-fe.jpg"
+    },
+    {
+      "id": 65,
+      "carName": "GMC Terrain",
+      "rentPrice": 55,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-terrain.jpg"
+    },
+    {
+      "id": 66,
+      "carName": "Volkswagen Atlas",
+      "rentPrice": 70,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "24 mpg",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-atlas.jpg"
+    },
+    {
+      "id": 67,
+      "carName": "Audi Q7",
+      "rentPrice": 88,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "21 mpg",
+      "automatic": true,
+      "image": "https://example.com/audi-q7.jpg"
+    },
+    {
+      "id": 68,
+      "carName": "Toyota Prius",
+      "rentPrice": 60,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "52 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-prius.jpg"
+    },
+    {
+      "id": 69,
+      "carName": "Nissan Versa",
+      "rentPrice": 45,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "34 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-versa.jpg"
+    },
+    {
+      "id": 70,
+      "carName": "Subaru Legacy",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/subaru-legacy.jpg"
+    },
+    {
+      "id": 71,
+      "carName": "Mazda CX-30",
+      "rentPrice": 58,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "31 mpg",
+      "automatic": true,
+      "image": "https://example.com/mazda-cx-30.jpg"
+    },
+    {
+      "id": 72,
+      "carName": "Kia Forte",
+      "rentPrice": 47,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "34 mpg",
+      "automatic": true,
+      "image": "https://example.com/kia-forte.jpg"
+    },
+    {
+      "id": 73,
+      "carName": "Chevrolet Trax",
+      "rentPrice": 50,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "33 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-trax.jpg"
+    },
+    {
+      "id": 74,
+      "carName": "Ford Mustang Mach-E",
+      "rentPrice": 110,
+      "type": "electric",
+      "seats": 5,
+      "mileage": "270 miles/charge",
+      "automatic": true,
+      "image": "https://example.com/ford-mustang-mach-e.jpg"
+    },
+    {
+      "id": 75,
+      "carName": "Jeep Grand Wagoneer",
+      "rentPrice": 120,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "21 mpg",
+      "automatic": true,
+      "image": "https://example.com/jeep-grand-wagoneer.jpg"
+    },
+    {
+      "id": 76,
+      "carName": "Hyundai Kona",
+      "rentPrice": 48,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-kona.jpg"
+    },
+    {
+      "id": 77,
+      "carName": "GMC Yukon",
+      "rentPrice": 95,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "20 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-yukon.jpg"
+    },
+    {
+      "id": 78,
+      "carName": "Volkswagen Arteon",
+      "rentPrice": 72,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "27 mpg",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-arteon.jpg"
+    },
+    {
+      "id": 79,
+      "carName": "Audi A5",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "28 mpg",
+      "automatic": true,
+      "image": "https://example.com/audi-a5.jpg"
+    },
+    {
+      "id": 80,
+      "carName": "Toyota Tundra",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "17 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-tundra.jpg"
+    },
+    {
+      "id": 81,
+      "carName": "Nissan Kicks",
+      "rentPrice": 46,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "31 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-kicks.jpg"
+    },
+    {
+      "id": 82,
+      "carName": "Subaru Ascent",
+      "rentPrice": 72,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "23 mpg",
+      "automatic": true,
+      "image": "https://example.com/subaru-ascent.jpg"
+    },
+    {
+      "id": 83,
+      "carName": "Mazda6",
+      "rentPrice": 55,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/mazda6.jpg"
+    },
+    {
+      "id": 84,
+      "carName": "Kia Telluride",
+      "rentPrice": 78,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "23 mpg",
+      "automatic": true,
+      "image": "https://example.com/kia-telluride.jpg"
+    },
+    {
+      "id": 85,
+      "carName": "Chevrolet Blazer",
+      "rentPrice": 60,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "27 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-blazer.jpg"
+    },
+    {
+      "id": 86,
+      "carName": "Ford Expedition",
+      "rentPrice": 90,
+      "type": "gasoline",
+      "seats": 7,
+      "mileage": "20 mpg",
+      "automatic": true,
+      "image": "https://example.com/ford-expedition.jpg"
+    },
+    {
+      "id": 87,
+      "carName": "Hyundai Venue",
+      "rentPrice": 48,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-venue.jpg"
+    },
+    {
+      "id": 88,
+      "carName": "GMC Canyon",
+      "rentPrice": 60,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "26 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-canyon.jpg"
+    },
+    {
+      "id": 89,
+      "carName": "Volkswagen Jetta GLI",
+      "rentPrice": 52,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "29 mpg",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-jetta-gli.jpg"
+    },
+    {
+      "id": 90,
+      "carName": "Audi e-tron",
+      "rentPrice": 110,
+      "type": "electric",
+      "seats": 5,
+      "mileage": "220 miles/charge",
+      "automatic": true,
+      "image": "https://example.com/audi-e-tron.jpg"
+    },
+    {
+      "id": 91,
+      "carName": "Toyota Avalon",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "32 mpg",
+      "automatic": true,
+      "image": "https://example.com/toyota-avalon.jpg"
+    },
+    {
+      "id": 92,
+      "carName": "Nissan Titan",
+      "rentPrice": 85,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "18 mpg",
+      "automatic": true,
+      "image": "https://example.com/nissan-titan.jpg"
+    },
+    {
+      "id": 93,
+      "carName": "Subaru WRX",
+      "rentPrice": 62,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "24 mpg",
+      "automatic": true,
+      "image": "https://example.com/subaru-wrx.jpg"
+    },
+    {
+      "id": 94,
+      "carName": "Mazda MX-5 Miata",
+      "rentPrice": 50,
+      "type": "gasoline",
+      "seats": 2,
+      "mileage": "30 mpg",
+      "automatic": true,
+      "image": "https://example.com/mazda-mx-5-miata.jpg"
+    },
+    {
+      "id": 95,
+      "carName": "Kia Stinger",
+      "rentPrice": 70,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "25 mpg",
+      "automatic": true,
+      "image": "https://example.com/kia-stinger.jpg"
+    },
+    {
+      "id": 96,
+      "carName": "Chevrolet Camaro",
+      "rentPrice": 75,
+      "type": "gasoline",
+      "seats": 4,
+      "mileage": "24 mpg",
+      "automatic": true,
+      "image": "https://example.com/chevrolet-camaro.jpg"
+    },
+    {
+      "id": 97,
+      "carName": "Ford Ranger",
+      "rentPrice": 65,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "23 mpg",
+      "automatic": true,
+      "image": "https://example.com/ford-ranger.jpg"
+    },
+    {
+      "id": 98,
+      "carName": "Hyundai Ioniq",
+      "rentPrice": 58,
+      "type": "hybrid",
+      "seats": 5,
+      "mileage": "58 mpg",
+      "automatic": true,
+      "image": "https://example.com/hyundai-ioniq.jpg"
+    },
+    {
+      "id": 99,
+      "carName": "GMC Sierra 1500",
+      "rentPrice": 90,
+      "type": "gasoline",
+      "seats": 5,
+      "mileage": "17 mpg",
+      "automatic": true,
+      "image": "https://example.com/gmc-sierra-1500.jpg"
+    },
+    {
+      "id": 100,
+      "carName": "Volkswagen ID.4",
+      "rentPrice": 85,
+      "type": "electric",
+      "seats": 5,
+      "mileage": "250 miles/charge",
+      "automatic": true,
+      "image": "https://example.com/volkswagen-id4.jpg"
+    }
+  ]
+  
