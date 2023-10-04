@@ -15,7 +15,7 @@ body {
 }
 .header-icon {
   display: flex;
-  margin: 3rem;
+  margin: 1rem;
   flex-direction: row;
   align-items: center;
 }
@@ -108,4 +108,44 @@ select {
   left: -72%;
   top: 4%;
   height: 17px;
+}
+
+
+.card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.card h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+.card h6{
+  opacity: .6;
+  font-size: 10px;
+}
+
+.card p {
+  font-size: 15px;
+  opacity: .9;
+}
+.pagination-btn{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  padding:.8rem 2.2rem;
+  border: none;
+  font-size: 1.6rem;
+  background-color: #15133c;
+  color: #ffffff;
+  margin: 3rem;
+  cursor: pointer;
+  display:inline-block;
 }

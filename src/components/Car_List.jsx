@@ -1,6 +1,6 @@
 import React from 'react'
 import Car_card from './Car_card';
-const Car_List = (cars,searchTerm) => {
+const Car_List = ({cars,searchTerm}) => {
     const filteredcars =cars.filter((car) =>
     car.name.toLowerCase().includes(searchTerm.toLowerCase())
   );

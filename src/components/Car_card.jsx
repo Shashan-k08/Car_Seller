@@ -5,7 +5,7 @@ const Car_card = ({car}) => {
     <div className='row'>
       <div className="col-sm">
         <div class="card" style={{ width: "15rem" ,marginLeft:"70px" ,borderRadius:"30px",border:"none" }}>
-          <img class="card-img-top" src={car.image} alt="Card image cap" />
+          <img class="card-img-top"  style={{height:"140px"}} src={car.image} alt="Card image cap" />
           <div class="card-body">
             <h2>{car.name}</h2>
             <h6>{car.bakery}</h6>
